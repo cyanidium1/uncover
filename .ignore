@@ -1,4 +1,14 @@
+/.git
 /.vscode
 /Content
+/DerivedDataCache
 /Intermediate
 /Saved
+/Plugins/HelpfulFunctions/Content
+/Plugins/HelpfulFunctions/Intermediate
+/Plugins/IWALS_AbilitySystem/Content
+/Plugins/IWALS_AbilitySystem/Intermediate
+/Plugins/JakubAnimNodes/Content
+/Plugins/JakubAnimNodes/Intermediate
+/Plugins/JakubCableComponent/Content
+/Plugins/JakubCableComponent/Intermediate
